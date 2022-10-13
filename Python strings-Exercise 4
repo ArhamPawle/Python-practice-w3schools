@@ -1,0 +1,12 @@
+What is R Strip () in python?
+
+Python String rstrip() method returns a copy of the string with trailing characters removed (based on the string argument passed). If no argument is passed, it removes trailing spaces.
+
+
+Exercise:
+
+Return the string without any whitespace at the beginning or the end.
+
+
+txt = " Hello World "
+x = txt.strip()
