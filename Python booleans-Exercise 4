@@ -1,0 +1,11 @@
+Python bool() function is used to return or convert a value to a Boolean value i.e., True or False, using the standard truth testing procedure.
+
+Exercise:
+
+The statement below would print a Boolean value, which one?
+
+
+print(bool("abc"))
+
+
+True
